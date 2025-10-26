@@ -1,5 +1,5 @@
 # E-COMMERCE_salesData-Analytics
- The project involves popular e commerce site Myntra  datasets for analysing sales and performamce
+ The project involves popular e commerce site Myntra  datasets for analysing sales and performance.
 
 
 🧾 Myntra Sales Performance Dashboard – Power BI Project Report
